@@ -1,6 +1,7 @@
 version: 2
 
 # Defining default values for all jobs
+# Defining default values for all jobs
 defaults: &defaults
   docker:
     - image: circleci/node:latest
